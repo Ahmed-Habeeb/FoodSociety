@@ -29,6 +29,8 @@
 .pub-cache/
 .pub/
 /build/
+/test/
+/ios/
 
 
 # Web related
